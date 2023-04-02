@@ -7,7 +7,7 @@ import tempfile
 import sys
 import requests
 import subprocess
-import nude
+
 from .exceptions import ProblemImage
 
 # detector_address = 'http://localhost:9191/api/v1/detect'
